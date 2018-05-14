@@ -1,0 +1,12 @@
+title: Download archived Fresh! programs 
+
+description: >- # this means to ignore newlines until "baseurl:"
+  How to use freshlive_tv_helper to download archived programs of subscribed channels on Fresh!
+
+theme: jekyll-theme-cayman
+
+exclude:
+  - bundle       # bundle --standalone
+  - Gemfile
+  - Gemfile.lock
+  - READMD.md
