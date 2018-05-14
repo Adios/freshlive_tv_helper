@@ -91,6 +91,8 @@ ffmpeg -allowed_extensions ALL \
 
 ### All-For-One
 
+Could also see https://adios.github.io/freshlive_tv_helper/how-to-download-programs.
+
 1. Log in, browser to program page, e.g.: https://freshlive.tv/uchidamaaya/191012.
 2. Open developer tool, look for `?token=NNNNNNtNNNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` to get your token.
 3. [run.sh](/run.sh) it.
