@@ -1,0 +1,11 @@
+{
+  "name": "freshlive_tv_helper",
+  "version": "1.0.0",
+  "description": "Tools for generating playlist file on Fresh!.",
+  "author": "Adios Tsai",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "request": "^2.85.0"
+  }
+}
