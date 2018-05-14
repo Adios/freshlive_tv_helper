@@ -1,0 +1,7 @@
+node_modules/
+/.bundle/
+/vendor/bundle
+/bundle
+.npm
+Gemfile.lock
+package-lock.json
