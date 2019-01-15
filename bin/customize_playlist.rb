@@ -27,7 +27,7 @@ Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
   customized.items.each do |item|
     case item
     when M3u8::KeyItem
-      item.uri = 'file://' + path
+      item.uri = path
     when M3u8::SegmentItem
       item.segment = 'https://' + uri.hostname + item.segment
     end
